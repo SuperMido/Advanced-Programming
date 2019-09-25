@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/mido/IT Greenwich/Advanced-Programming/Labs/Advanced-programming/Encapsulation/Encapsulation.csproj": {}
+  },
+  "projects": {
+    "/home/mido/IT Greenwich/Advanced-Programming/Labs/Advanced-programming/Encapsulation/Encapsulation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mido/IT Greenwich/Advanced-Programming/Labs/Advanced-programming/Encapsulation/Encapsulation.csproj",
+        "projectName": "Encapsulation",
+        "projectPath": "/home/mido/IT Greenwich/Advanced-Programming/Labs/Advanced-programming/Encapsulation/Encapsulation.csproj",
+        "packagesPath": "/home/mido/.nuget/packages/",
+        "outputPath": "/home/mido/IT Greenwich/Advanced-Programming/Labs/Advanced-programming/Encapsulation/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/mido/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
