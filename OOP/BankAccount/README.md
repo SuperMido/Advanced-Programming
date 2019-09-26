@@ -1,4 +1,4 @@
-#Bank Account
+# Bank Account
 
 ## Requirement
 
@@ -6,23 +6,30 @@
 
 - Install .NET core:
   - Open a terminal and run the following commands:
+  
   `$ wget -q https://packages.microsoft.com/config/ubuntu/18.04/packages-microsoft-prod.deb -O packages-microsoft-prod.deb`
+  
   `$ sudo dpkg -i packages-microsoft-prod.deb`
 
   `$ sudo add-apt-repository universe`
+  
   `$ sudo apt-get update`
+  
   `$ sudo apt-get install apt-transport-https`
+  
   `$ sudo apt-get install dotnet-sdk-3.0`
+  
 ## HOW TO RUN IT
 
-Clone it into your computer:
-`$ git clone https://git.nfq.asia/PHPCourse.TranQuangHuy/php-training-assessment.git`
+- Clone it into your computer:
 
-Go to that folder:
+  `$ git clone https://git.nfq.asia/PHPCourse.TranQuangHuy/php-training-assessment.git`
 
-`$ cd php-training-assessment`
+- Go to that folder:
 
-`$ cd jobsearchNFQ`
+  `$ cd php-training-assessment`
 
-Run it:
-`$ dotnet run`
+  `$ cd jobsearchNFQ`
+
+- Run it:
+  `$ dotnet run`
