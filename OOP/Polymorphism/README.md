@@ -29,7 +29,7 @@
 
   `$ cd OOP`
 
-  `$ cd BankAccount`
+  `$ cd Polymorphism`
 
 - Run it:
   `$ dotnet run`
