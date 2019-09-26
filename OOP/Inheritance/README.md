@@ -1,5 +1,7 @@
 # Inheritance
 
+![](https://i.imgur.com/bYB9OFD.gif)
+
 ## Requirement
 
 - .NET core SDK Version: 2.2.402
