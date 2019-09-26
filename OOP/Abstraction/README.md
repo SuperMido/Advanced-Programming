@@ -1,6 +1,6 @@
 # Abstraction
 
-![](blob:https://imgur.com/52bbe64e-c53e-4a40-b63a-c4970ae773e9)
+[Imgur](https://i.imgur.com/rjZvMdn.gifv)
 
 ## Requirement
 
