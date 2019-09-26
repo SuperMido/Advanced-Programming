@@ -1,5 +1,7 @@
 # Bank Account
 
+![](https://i.imgur.com/o3hh9Zm.gif)
+
 ## Requirement
 
 - .NET core SDK Version: 2.2.402
