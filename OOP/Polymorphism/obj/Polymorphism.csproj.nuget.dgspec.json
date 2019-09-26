@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Abstraction/Abstraction.csproj": {}
+    "/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Polymorphism/Polymorphism.csproj": {}
   },
   "projects": {
-    "/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Abstraction/Abstraction.csproj": {
+    "/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Polymorphism/Polymorphism.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Abstraction/Abstraction.csproj",
-        "projectName": "Abstraction",
-        "projectPath": "/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Abstraction/Abstraction.csproj",
+        "projectUniqueName": "/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Polymorphism/Polymorphism.csproj",
+        "projectName": "Polymorphism",
+        "projectPath": "/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Polymorphism/Polymorphism.csproj",
         "packagesPath": "/home/mido/.nuget/packages/",
-        "outputPath": "/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Abstraction/obj/",
+        "outputPath": "/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Polymorphism/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"

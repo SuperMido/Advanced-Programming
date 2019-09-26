@@ -1,0 +1,11 @@
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Inheritance/bin/Debug/netcoreapp2.2/Inheritance.deps.json
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Inheritance/bin/Debug/netcoreapp2.2/Inheritance.runtimeconfig.json
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Inheritance/bin/Debug/netcoreapp2.2/Inheritance.runtimeconfig.dev.json
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Inheritance/bin/Debug/netcoreapp2.2/Inheritance.dll
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Inheritance/bin/Debug/netcoreapp2.2/Inheritance.pdb
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Inheritance/obj/Debug/netcoreapp2.2/Inheritance.csprojAssemblyReference.cache
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Inheritance/obj/Debug/netcoreapp2.2/Inheritance.csproj.CoreCompileInputs.cache
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Inheritance/obj/Debug/netcoreapp2.2/Inheritance.AssemblyInfoInputs.cache
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Inheritance/obj/Debug/netcoreapp2.2/Inheritance.AssemblyInfo.cs
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Inheritance/obj/Debug/netcoreapp2.2/Inheritance.dll
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Inheritance/obj/Debug/netcoreapp2.2/Inheritance.pdb

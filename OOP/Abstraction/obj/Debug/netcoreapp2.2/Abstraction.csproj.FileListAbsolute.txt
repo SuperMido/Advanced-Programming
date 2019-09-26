@@ -9,3 +9,14 @@
 /home/mido/IT Greenwich/Advanced-Programming/Labs/Advanced-programming/Abstraction/obj/Debug/netcoreapp2.2/Abstraction.AssemblyInfo.cs
 /home/mido/IT Greenwich/Advanced-Programming/Labs/Advanced-programming/Abstraction/obj/Debug/netcoreapp2.2/Abstraction.dll
 /home/mido/IT Greenwich/Advanced-Programming/Labs/Advanced-programming/Abstraction/obj/Debug/netcoreapp2.2/Abstraction.pdb
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Abstraction/bin/Debug/netcoreapp2.2/Abstraction.deps.json
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Abstraction/bin/Debug/netcoreapp2.2/Abstraction.runtimeconfig.json
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Abstraction/bin/Debug/netcoreapp2.2/Abstraction.runtimeconfig.dev.json
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Abstraction/bin/Debug/netcoreapp2.2/Abstraction.dll
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Abstraction/bin/Debug/netcoreapp2.2/Abstraction.pdb
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Abstraction/obj/Debug/netcoreapp2.2/Abstraction.csprojAssemblyReference.cache
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Abstraction/obj/Debug/netcoreapp2.2/Abstraction.csproj.CoreCompileInputs.cache
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Abstraction/obj/Debug/netcoreapp2.2/Abstraction.AssemblyInfoInputs.cache
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Abstraction/obj/Debug/netcoreapp2.2/Abstraction.AssemblyInfo.cs
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Abstraction/obj/Debug/netcoreapp2.2/Abstraction.dll
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Abstraction/obj/Debug/netcoreapp2.2/Abstraction.pdb

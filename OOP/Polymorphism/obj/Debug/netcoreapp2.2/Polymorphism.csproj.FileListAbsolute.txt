@@ -1,0 +1,11 @@
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Polymorphism/bin/Debug/netcoreapp2.2/Polymorphism.deps.json
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Polymorphism/bin/Debug/netcoreapp2.2/Polymorphism.runtimeconfig.json
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Polymorphism/bin/Debug/netcoreapp2.2/Polymorphism.runtimeconfig.dev.json
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Polymorphism/bin/Debug/netcoreapp2.2/Polymorphism.dll
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Polymorphism/bin/Debug/netcoreapp2.2/Polymorphism.pdb
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Polymorphism/obj/Debug/netcoreapp2.2/Polymorphism.csprojAssemblyReference.cache
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Polymorphism/obj/Debug/netcoreapp2.2/Polymorphism.csproj.CoreCompileInputs.cache
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Polymorphism/obj/Debug/netcoreapp2.2/Polymorphism.AssemblyInfoInputs.cache
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Polymorphism/obj/Debug/netcoreapp2.2/Polymorphism.AssemblyInfo.cs
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Polymorphism/obj/Debug/netcoreapp2.2/Polymorphism.dll
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Polymorphism/obj/Debug/netcoreapp2.2/Polymorphism.pdb
