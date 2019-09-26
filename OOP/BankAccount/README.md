@@ -23,7 +23,7 @@
 
 - Clone it into your computer:
 
-  `$ git clone https://git.nfq.asia/PHPCourse.TranQuangHuy/php-training-assessment.git`
+  `$ git clone https://github.com/SuperMido/Advanced-Programming.git`
 
 - Go to that folder:
 
