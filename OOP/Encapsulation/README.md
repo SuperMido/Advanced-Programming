@@ -1,5 +1,8 @@
 # Encapsulation
 
+![](https://i.imgur.com/x8QJ6X3.gif)
+![](https://i.imgur.com/VPtzd7i.gif)
+
 ## Requirement
 
 - .NET core SDK Version: 2.2.402
