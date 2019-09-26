@@ -27,9 +27,9 @@
 
 - Go to that folder:
 
-  `$ cd php-training-assessment`
+  `$ cd OOP`
 
-  `$ cd jobsearchNFQ`
+  `$ cd BankAccount`
 
 - Run it:
   `$ dotnet run`
