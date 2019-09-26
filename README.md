@@ -1,105 +1,37 @@
-# FGW Advanced Programming
+# FGW Advanced Programming - Tran Quang Huy and Hieu Nguyen
 
-## Program
-- OOP
-  - Classes and Objects
-  - Inheritance
-  - Interface
-  - Polymorsphism
-  - Abstract Class
-  - Private Access Modifier
-  - Public Access Modifier
-- UML
-  - Class Diagrams
-  - Sequence Diagrams
-- Design Patterns
-  - Simple Factory
-  - Decorator
-  - Composite
-  - Template Method
-  - [Adaptation of Design Patterns for Humans to C#](https://github.com/anupavanm/csharp-design-patterns-for-humans)
-- Labs
-  - OOP
-  - UML
-  - Design patterns
-- Slides
-  - Software Life Cycle
-  - Requirements
-  - Use cases
-  - Software Architecture
-  - Class Diagrams
-  - Sequence Diagrams
-  - Design Pattenrs
+![](https://i.imgur.com/csV5T0L.gif)
 
----
---- 
+## Requirement
 
-# Markdown Language Examples
+- .NET core SDK Version: 2.2.402
 
-[Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- Install .NET core:
+  - Open a terminal and run the following commands:
+  
+  `$ wget -q https://packages.microsoft.com/config/ubuntu/18.04/packages-microsoft-prod.deb -O packages-microsoft-prod.deb`
+  
+  `$ sudo dpkg -i packages-microsoft-prod.deb`
 
-```
-# This is Heading 1
-```
-# This is Heading 1
-```
-## This is Heading 2
-```
-## This is Heading 2
-```
-### This is Heading 3
-```
-### This is Heading 3
+  `$ sudo add-apt-repository universe`
+  
+  `$ sudo apt-get update`
+  
+  `$ sudo apt-get install apt-transport-https`
+  
+  `$ sudo apt-get install dotnet-sdk-3.0`
+  
+## HOW TO RUN IT
 
-This is an sentance
+- Clone it into your computer:
 
-```
-- Bullet point 1
-- Bullet point 2
-  - Bullet point 2.1
-```
+  `$ git clone https://github.com/SuperMido/Advanced-Programming.git`
 
-- Bullet point 1
-- Bullet point 2
-  - Bullet point 2.1
+- Go to that folder:
 
-Inline code
-```
-This is inline: `Program.cs`
-```
+  `$ cd OOP`
 
-This is inline `Program.cs`
+  `$ cd "Folder-Program"`
 
-Block code 
-```
-```cs
-{
-  private double length;
-  private double width;
-}
-```cs
-```
-
-```cs
-class Box
-{
-  private double length;
-  private double width;
-}
-
-```
-
-URL
-```
-This is a [Link](google.com)
-```
-
-This is a [Link](google.com)
-
-Insert image:
-
-```
-![Caption](https://image.shutterstock.com/image-photo/white-transparent-leaf-on-mirror-600w-1029171697.jpg)
-```
-
-![Caption](https://image.shutterstock.com/image-photo/white-transparent-leaf-on-mirror-600w-1029171697.jpg)
+- Run it:
+  `$ dotnet run`
