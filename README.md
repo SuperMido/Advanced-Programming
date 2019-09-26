@@ -1,6 +1,6 @@
 # FGW Advanced Programming - Tran Quang Huy and Hieu Nguyen
 
-![](https://i.imgur.com/csV5T0L.gif)
+![](https://i.imgur.com/4zEvKvF.jpg?1)
 
 ## Requirement
 
