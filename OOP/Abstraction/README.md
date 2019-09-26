@@ -1,6 +1,6 @@
 # Abstraction
 
-![](https://i.imgur.com/rjZvMdn.gifv)
+![](https://i.imgur.com/nNJ6iy0.gif)
 
 ## Requirement
 
