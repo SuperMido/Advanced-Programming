@@ -1,6 +1,6 @@
-# FGW Advanced Programming - Tran Quang Huy and Hieu Nguyen
+# Bank Account
 
-![](https://i.imgur.com/4zEvKvF.jpg?1)
+![](https://i.imgur.com/o3hh9Zm.gif)
 
 ## Requirement
 
@@ -31,7 +31,7 @@
 
   `$ cd OOP`
 
-  `$ cd "Folder-Program"`
+  `$ cd BankAccount`
 
 - Run it:
   `$ dotnet run`
