@@ -1,0 +1,11 @@
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/BankAccount/bin/Debug/netcoreapp2.2/BankAccount.deps.json
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/BankAccount/bin/Debug/netcoreapp2.2/BankAccount.runtimeconfig.json
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/BankAccount/bin/Debug/netcoreapp2.2/BankAccount.runtimeconfig.dev.json
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/BankAccount/bin/Debug/netcoreapp2.2/BankAccount.dll
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/BankAccount/bin/Debug/netcoreapp2.2/BankAccount.pdb
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/BankAccount/obj/Debug/netcoreapp2.2/BankAccount.csprojAssemblyReference.cache
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/BankAccount/obj/Debug/netcoreapp2.2/BankAccount.csproj.CoreCompileInputs.cache
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/BankAccount/obj/Debug/netcoreapp2.2/BankAccount.AssemblyInfoInputs.cache
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/BankAccount/obj/Debug/netcoreapp2.2/BankAccount.AssemblyInfo.cs
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/BankAccount/obj/Debug/netcoreapp2.2/BankAccount.dll
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/BankAccount/obj/Debug/netcoreapp2.2/BankAccount.pdb

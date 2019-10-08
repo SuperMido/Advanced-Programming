@@ -36,46 +36,46 @@ namespace Inheritance
         }
     }
 
-    public class RandomList : List<string>
-    {
-        private Random randomElement;
+    // public class RandomList : List<string>
+    // {
+    //     private Random randomElement;
 
-        public string RandomString()
-        {
-            int pos;
-            pos = randomElement.Next(0, Count);
-            string element = this[pos];
-            RemoveAt(pos);
-            return element;
-        }
-    }
+    //     public string RandomString()
+    //     {
+    //         int pos;
+    //         pos = randomElement.Next(0, Count);
+    //         string element = this[pos];
+    //         RemoveAt(pos);
+    //         return element;
+    //     }
+    // }
 
-    public class StackOfStrings
-    {
-        private List<string> data;
-        public void Push(string item)
-        {
-            data.Add(item);
-        }
+    // public class StackOfStrings
+    // {
+    //     private List<string> data;
+    //     public void Push(string item)
+    //     {
+    //         data.Add(item);
+    //     }
 
-        public string Pop()
-        {
-            string item = data[data.Count -1];
-            data.RemoveAt(data.Count -1);
-            return item;
-        }
+    //     public string Pop()
+    //     {
+    //         string item = data[data.Count -1];
+    //         data.RemoveAt(data.Count -1);
+    //         return item;
+    //     }
 
-        public string Peek()
-        {
-            return data[data.Count -1];
-        }
+    //     public string Peek()
+    //     {
+    //         return data[data.Count -1];
+    //     }
 
-        public bool IsEmpty()
-        {
-            if(data.Count ==0) return true;
-            else return false;
-        }
-    }
+    //     public bool IsEmpty()
+    //     {
+    //         if(data.Count ==0) return true;
+    //         else return false;
+    //     }
+    // }
     class Program
     {
         static void Main(string[] args)
@@ -83,11 +83,13 @@ namespace Inheritance
             Dog myDog = new Dog();
             myDog.Eat();
             myDog.Bark();
+            Console.WriteLine();
 
-            // Puppy myPyppy = new Puppy();
-            // myPyppy.Eat();
-            // myPyppy.Bark();
-            // myPyppy.Weep();
+            Puppy myPyppy = new Puppy();
+            myPyppy.Eat();
+            myPyppy.Bark();
+            myPyppy.Weep();
+            Console.WriteLine();
 
             Cat myCat = new Cat();
             myCat.Eat();

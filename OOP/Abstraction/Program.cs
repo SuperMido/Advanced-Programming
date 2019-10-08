@@ -364,7 +364,7 @@ namespace Abstraction
             }else  myPrice.priceCalculator(Convert.ToDecimal(resArr[0]),Convert.ToInt32(resArr[1]) , seasonTotal,discountTotal);
 
            
-            
+            Console.WriteLine();
             Console.ReadKey();
         }
     }

@@ -151,28 +151,28 @@ namespace Encapsulation
             static void Main(string[] args)
             {
                 var lines = int.Parse(Console.ReadLine());
-                // var persons = new List<Person>();
-                // for (int i = 0; i < lines; i++)
-                // {
-                //     var cmdArgs = Console.ReadLine().Split();
-                //     try
-                //     {
-                //         var person = new Person(cmdArgs[0],
-                //                             cmdArgs[1],
-                //                             int.Parse(cmdArgs[2]),
-                //                             decimal.Parse(cmdArgs[3]));
+                var persons = new List<Person>();
+                for (int i = 0; i < lines; i++)
+                {
+                    var cmdArgs = Console.ReadLine().Split();
+                    try
+                    {
+                        var person = new Person(cmdArgs[0],
+                                            cmdArgs[1],
+                                            int.Parse(cmdArgs[2]),
+                                            decimal.Parse(cmdArgs[3]));
 
-                //         persons.Add(person);
-                //     }
-                //     catch(ArgumentException ex)
-                //     {
-                //         Console.ForegroundColor=ConsoleColor.Red;
-                //         Console.WriteLine(ex.Message);
-                //         Console.ResetColor();
-                //     }
+                        persons.Add(person);
+                    }
+                    catch(ArgumentException ex)
+                    {
+                        Console.ForegroundColor=ConsoleColor.Red;
+                        Console.WriteLine(ex.Message);
+                        Console.ResetColor();
+                    }
                     
-                // }
-                //  var bonus = decimal.Parse(Console.ReadLine());
+                }
+                // var bonus = decimal.Parse(Console.ReadLine());
                 // persons.ForEach(p => p.IncreaseSalary(bonus));
                 // persons.ForEach(p => Console.WriteLine(p.ToString()));
 
@@ -181,20 +181,20 @@ namespace Encapsulation
                 //        .ToList()
                 //        .ForEach(p => Console.WriteLine(p.ToString()));
                
-                var team = new Team("GCD");
-                for (int i = 0; i < lines; i++)
-                {
-                    var cmdArgs = Console.ReadLine().Split();
-                    var person = new Person(cmdArgs[0],
-                                            cmdArgs[1],
-                                            int.Parse(cmdArgs[2]),
-                                            decimal.Parse(cmdArgs[3]));
+                // var team = new Team("GCD");
+                // for (int i = 0; i < lines; i++)
+                // {
+                //     var cmdArgs = Console.ReadLine().Split();
+                //     var person = new Person(cmdArgs[0],
+                //                             cmdArgs[1],
+                //                             int.Parse(cmdArgs[2]),
+                //                             decimal.Parse(cmdArgs[3]));
 
-                    team.AddPlayer(person);
-                }
+                //     team.AddPlayer(person);
+                // }
 
-                Console.WriteLine($"First team has {team.FirstTeam.Count} players.");
-                Console.WriteLine($"Reserve team has {team.ReserveTeam.Count} players.");
+                // Console.WriteLine($"First team has {team.FirstTeam.Count} players.");
+                // Console.WriteLine($"Reserve team has {team.ReserveTeam.Count} players.");
 
 
             }

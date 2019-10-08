@@ -1,0 +1,11 @@
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/UML/Hotel/obj/Debug/netcoreapp2.2/Hotel.csprojAssemblyReference.cache
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/UML/Hotel/obj/Debug/netcoreapp2.2/Hotel.csproj.CoreCompileInputs.cache
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/UML/Hotel/obj/Debug/netcoreapp2.2/Hotel.AssemblyInfoInputs.cache
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/UML/Hotel/obj/Debug/netcoreapp2.2/Hotel.AssemblyInfo.cs
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/UML/Hotel/bin/Debug/netcoreapp2.2/Hotel.deps.json
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/UML/Hotel/bin/Debug/netcoreapp2.2/Hotel.runtimeconfig.json
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/UML/Hotel/bin/Debug/netcoreapp2.2/Hotel.runtimeconfig.dev.json
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/UML/Hotel/bin/Debug/netcoreapp2.2/Hotel.dll
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/UML/Hotel/bin/Debug/netcoreapp2.2/Hotel.pdb
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/UML/Hotel/obj/Debug/netcoreapp2.2/Hotel.dll
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/UML/Hotel/obj/Debug/netcoreapp2.2/Hotel.pdb

@@ -9,3 +9,14 @@
 /home/mido/IT Greenwich/Advanced-Programming/Labs/Advanced-programming/Encapsulation/obj/Debug/netcoreapp2.2/Encapsulation.AssemblyInfo.cs
 /home/mido/IT Greenwich/Advanced-Programming/Labs/Advanced-programming/Encapsulation/obj/Debug/netcoreapp2.2/Encapsulation.dll
 /home/mido/IT Greenwich/Advanced-Programming/Labs/Advanced-programming/Encapsulation/obj/Debug/netcoreapp2.2/Encapsulation.pdb
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Encapsulation/obj/Debug/netcoreapp2.2/Encapsulation.csprojAssemblyReference.cache
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Encapsulation/obj/Debug/netcoreapp2.2/Encapsulation.csproj.CoreCompileInputs.cache
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Encapsulation/obj/Debug/netcoreapp2.2/Encapsulation.AssemblyInfoInputs.cache
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Encapsulation/obj/Debug/netcoreapp2.2/Encapsulation.AssemblyInfo.cs
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Encapsulation/obj/Debug/netcoreapp2.2/Encapsulation.dll
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Encapsulation/obj/Debug/netcoreapp2.2/Encapsulation.pdb
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Encapsulation/bin/Debug/netcoreapp2.2/Encapsulation.deps.json
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Encapsulation/bin/Debug/netcoreapp2.2/Encapsulation.runtimeconfig.json
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Encapsulation/bin/Debug/netcoreapp2.2/Encapsulation.runtimeconfig.dev.json
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Encapsulation/bin/Debug/netcoreapp2.2/Encapsulation.dll
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/OOP/Encapsulation/bin/Debug/netcoreapp2.2/Encapsulation.pdb

@@ -1,0 +1,11 @@
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/UML/SequenceDiagram/ATM/bin/Debug/netcoreapp2.2/ATM.deps.json
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/UML/SequenceDiagram/ATM/bin/Debug/netcoreapp2.2/ATM.runtimeconfig.json
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/UML/SequenceDiagram/ATM/bin/Debug/netcoreapp2.2/ATM.runtimeconfig.dev.json
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/UML/SequenceDiagram/ATM/bin/Debug/netcoreapp2.2/ATM.dll
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/UML/SequenceDiagram/ATM/bin/Debug/netcoreapp2.2/ATM.pdb
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/UML/SequenceDiagram/ATM/obj/Debug/netcoreapp2.2/ATM.csprojAssemblyReference.cache
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/UML/SequenceDiagram/ATM/obj/Debug/netcoreapp2.2/ATM.csproj.CoreCompileInputs.cache
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/UML/SequenceDiagram/ATM/obj/Debug/netcoreapp2.2/ATM.AssemblyInfoInputs.cache
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/UML/SequenceDiagram/ATM/obj/Debug/netcoreapp2.2/ATM.AssemblyInfo.cs
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/UML/SequenceDiagram/ATM/obj/Debug/netcoreapp2.2/ATM.dll
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/UML/SequenceDiagram/ATM/obj/Debug/netcoreapp2.2/ATM.pdb

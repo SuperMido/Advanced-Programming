@@ -7,8 +7,8 @@ namespace Lab1_AdvancedProgramming
     class BankAccount
     {
         //Private fields
-        private int id;
-        private decimal balance;
+        // private int id;
+        // private decimal balance;
 
         //Public properties
         public int Id;

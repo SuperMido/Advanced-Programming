@@ -150,19 +150,20 @@ namespace Polymorphism
     {
         static void Main(string[] args)
         {
-            // MathOperations myMathOperations = new MathOperations();
-            // Console.WriteLine(myMathOperations.Add(2,3));
-            // Console.WriteLine(myMathOperations.Add(2.2,3.3,5.5));
-            // Console.WriteLine(myMathOperations.Add(2.2m, 3.3m, 4.4m));
-            // Animal cat = new Cat("Pesho", "Whiskas");
-            // Animal dog = new Dog("Gosho", "Meet");
-
-            // Console.WriteLine(cat.ExplainSelf());
-            // Console.WriteLine(dog.ExplainSelf());
+            MathOperations myMathOperations = new MathOperations();
+            Console.WriteLine(myMathOperations.Add(2,3));
+            Console.WriteLine(myMathOperations.Add(2.2,3.3,5.5));
+            Console.WriteLine(myMathOperations.Add(2.2m, 3.3m, 4.4m));
+            Console.WriteLine();
+            
+            Animal cat = new Cat("Pesho", "Whiskas");
+            Animal dog = new Dog("Gosho", "Meet");
+            Console.WriteLine(cat.ExplainSelf());
+            Console.WriteLine(dog.ExplainSelf());
 
             Shape myRectangle = new Rectangle(3,5);
             Shape myCircle = new Circle(5);
-
+            Console.WriteLine();
             Console.Write("Area of Circle: ");
             Console.WriteLine(myCircle.CalculateArea());
             Console.Write("Perimeter of Circle: ");

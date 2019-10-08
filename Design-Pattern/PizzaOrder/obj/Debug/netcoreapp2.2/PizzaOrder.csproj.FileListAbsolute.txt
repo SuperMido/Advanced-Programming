@@ -1,0 +1,11 @@
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/Design-Pattern/PizzaOrder/obj/Debug/netcoreapp2.2/PizzaOrder.csprojAssemblyReference.cache
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/Design-Pattern/PizzaOrder/obj/Debug/netcoreapp2.2/PizzaOrder.csproj.CoreCompileInputs.cache
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/Design-Pattern/PizzaOrder/obj/Debug/netcoreapp2.2/PizzaOrder.AssemblyInfoInputs.cache
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/Design-Pattern/PizzaOrder/obj/Debug/netcoreapp2.2/PizzaOrder.AssemblyInfo.cs
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/Design-Pattern/PizzaOrder/bin/Debug/netcoreapp2.2/PizzaOrder.deps.json
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/Design-Pattern/PizzaOrder/bin/Debug/netcoreapp2.2/PizzaOrder.runtimeconfig.json
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/Design-Pattern/PizzaOrder/bin/Debug/netcoreapp2.2/PizzaOrder.runtimeconfig.dev.json
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/Design-Pattern/PizzaOrder/bin/Debug/netcoreapp2.2/PizzaOrder.dll
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/Design-Pattern/PizzaOrder/bin/Debug/netcoreapp2.2/PizzaOrder.pdb
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/Design-Pattern/PizzaOrder/obj/Debug/netcoreapp2.2/PizzaOrder.dll
+/home/mido/IT Greenwich/Advanced-Programming/Advanced-Programming/Design-Pattern/PizzaOrder/obj/Debug/netcoreapp2.2/PizzaOrder.pdb
