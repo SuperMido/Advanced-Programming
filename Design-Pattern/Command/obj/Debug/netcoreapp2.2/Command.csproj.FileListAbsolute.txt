@@ -1,0 +1,11 @@
+/home/mido/Desktop/CodeASM1/design-Pattens/Command/bin/Debug/netcoreapp2.2/Command.deps.json
+/home/mido/Desktop/CodeASM1/design-Pattens/Command/bin/Debug/netcoreapp2.2/Command.runtimeconfig.json
+/home/mido/Desktop/CodeASM1/design-Pattens/Command/bin/Debug/netcoreapp2.2/Command.runtimeconfig.dev.json
+/home/mido/Desktop/CodeASM1/design-Pattens/Command/bin/Debug/netcoreapp2.2/Command.dll
+/home/mido/Desktop/CodeASM1/design-Pattens/Command/bin/Debug/netcoreapp2.2/Command.pdb
+/home/mido/Desktop/CodeASM1/design-Pattens/Command/obj/Debug/netcoreapp2.2/Command.csprojAssemblyReference.cache
+/home/mido/Desktop/CodeASM1/design-Pattens/Command/obj/Debug/netcoreapp2.2/Command.csproj.CoreCompileInputs.cache
+/home/mido/Desktop/CodeASM1/design-Pattens/Command/obj/Debug/netcoreapp2.2/Command.AssemblyInfoInputs.cache
+/home/mido/Desktop/CodeASM1/design-Pattens/Command/obj/Debug/netcoreapp2.2/Command.AssemblyInfo.cs
+/home/mido/Desktop/CodeASM1/design-Pattens/Command/obj/Debug/netcoreapp2.2/Command.dll
+/home/mido/Desktop/CodeASM1/design-Pattens/Command/obj/Debug/netcoreapp2.2/Command.pdb
