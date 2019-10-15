@@ -1,0 +1,11 @@
+/home/mido/Desktop/CodeASM1/Polymorphms/obj/Debug/netcoreapp2.2/Polymorphms.csprojAssemblyReference.cache
+/home/mido/Desktop/CodeASM1/Polymorphms/obj/Debug/netcoreapp2.2/Polymorphms.csproj.CoreCompileInputs.cache
+/home/mido/Desktop/CodeASM1/Polymorphms/obj/Debug/netcoreapp2.2/Polymorphms.AssemblyInfoInputs.cache
+/home/mido/Desktop/CodeASM1/Polymorphms/obj/Debug/netcoreapp2.2/Polymorphms.AssemblyInfo.cs
+/home/mido/Desktop/CodeASM1/Polymorphms/bin/Debug/netcoreapp2.2/Polymorphms.deps.json
+/home/mido/Desktop/CodeASM1/Polymorphms/bin/Debug/netcoreapp2.2/Polymorphms.runtimeconfig.json
+/home/mido/Desktop/CodeASM1/Polymorphms/bin/Debug/netcoreapp2.2/Polymorphms.runtimeconfig.dev.json
+/home/mido/Desktop/CodeASM1/Polymorphms/bin/Debug/netcoreapp2.2/Polymorphms.dll
+/home/mido/Desktop/CodeASM1/Polymorphms/bin/Debug/netcoreapp2.2/Polymorphms.pdb
+/home/mido/Desktop/CodeASM1/Polymorphms/obj/Debug/netcoreapp2.2/Polymorphms.dll
+/home/mido/Desktop/CodeASM1/Polymorphms/obj/Debug/netcoreapp2.2/Polymorphms.pdb

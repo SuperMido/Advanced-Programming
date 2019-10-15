@@ -1,0 +1,11 @@
+/home/mido/Desktop/CodeASM1/Encapsulation/obj/Debug/netcoreapp2.2/Encapsulation.csprojAssemblyReference.cache
+/home/mido/Desktop/CodeASM1/Encapsulation/obj/Debug/netcoreapp2.2/Encapsulation.csproj.CoreCompileInputs.cache
+/home/mido/Desktop/CodeASM1/Encapsulation/obj/Debug/netcoreapp2.2/Encapsulation.AssemblyInfoInputs.cache
+/home/mido/Desktop/CodeASM1/Encapsulation/obj/Debug/netcoreapp2.2/Encapsulation.AssemblyInfo.cs
+/home/mido/Desktop/CodeASM1/Encapsulation/bin/Debug/netcoreapp2.2/Encapsulation.deps.json
+/home/mido/Desktop/CodeASM1/Encapsulation/bin/Debug/netcoreapp2.2/Encapsulation.runtimeconfig.json
+/home/mido/Desktop/CodeASM1/Encapsulation/bin/Debug/netcoreapp2.2/Encapsulation.runtimeconfig.dev.json
+/home/mido/Desktop/CodeASM1/Encapsulation/bin/Debug/netcoreapp2.2/Encapsulation.dll
+/home/mido/Desktop/CodeASM1/Encapsulation/bin/Debug/netcoreapp2.2/Encapsulation.pdb
+/home/mido/Desktop/CodeASM1/Encapsulation/obj/Debug/netcoreapp2.2/Encapsulation.dll
+/home/mido/Desktop/CodeASM1/Encapsulation/obj/Debug/netcoreapp2.2/Encapsulation.pdb

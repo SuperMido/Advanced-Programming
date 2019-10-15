@@ -1,0 +1,11 @@
+/home/mido/Desktop/CodeASM1/ClassAndObject/bin/Debug/netcoreapp2.2/ClassAndObject.deps.json
+/home/mido/Desktop/CodeASM1/ClassAndObject/bin/Debug/netcoreapp2.2/ClassAndObject.runtimeconfig.json
+/home/mido/Desktop/CodeASM1/ClassAndObject/bin/Debug/netcoreapp2.2/ClassAndObject.runtimeconfig.dev.json
+/home/mido/Desktop/CodeASM1/ClassAndObject/bin/Debug/netcoreapp2.2/ClassAndObject.dll
+/home/mido/Desktop/CodeASM1/ClassAndObject/bin/Debug/netcoreapp2.2/ClassAndObject.pdb
+/home/mido/Desktop/CodeASM1/ClassAndObject/obj/Debug/netcoreapp2.2/ClassAndObject.csprojAssemblyReference.cache
+/home/mido/Desktop/CodeASM1/ClassAndObject/obj/Debug/netcoreapp2.2/ClassAndObject.csproj.CoreCompileInputs.cache
+/home/mido/Desktop/CodeASM1/ClassAndObject/obj/Debug/netcoreapp2.2/ClassAndObject.AssemblyInfoInputs.cache
+/home/mido/Desktop/CodeASM1/ClassAndObject/obj/Debug/netcoreapp2.2/ClassAndObject.AssemblyInfo.cs
+/home/mido/Desktop/CodeASM1/ClassAndObject/obj/Debug/netcoreapp2.2/ClassAndObject.dll
+/home/mido/Desktop/CodeASM1/ClassAndObject/obj/Debug/netcoreapp2.2/ClassAndObject.pdb

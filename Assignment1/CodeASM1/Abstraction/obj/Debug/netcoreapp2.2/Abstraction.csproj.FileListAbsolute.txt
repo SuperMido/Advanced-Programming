@@ -1,0 +1,11 @@
+/home/mido/Desktop/CodeASM1/Abstraction/obj/Debug/netcoreapp2.2/Abstraction.csprojAssemblyReference.cache
+/home/mido/Desktop/CodeASM1/Abstraction/obj/Debug/netcoreapp2.2/Abstraction.csproj.CoreCompileInputs.cache
+/home/mido/Desktop/CodeASM1/Abstraction/obj/Debug/netcoreapp2.2/Abstraction.AssemblyInfoInputs.cache
+/home/mido/Desktop/CodeASM1/Abstraction/obj/Debug/netcoreapp2.2/Abstraction.AssemblyInfo.cs
+/home/mido/Desktop/CodeASM1/Abstraction/bin/Debug/netcoreapp2.2/Abstraction.deps.json
+/home/mido/Desktop/CodeASM1/Abstraction/bin/Debug/netcoreapp2.2/Abstraction.runtimeconfig.json
+/home/mido/Desktop/CodeASM1/Abstraction/bin/Debug/netcoreapp2.2/Abstraction.runtimeconfig.dev.json
+/home/mido/Desktop/CodeASM1/Abstraction/bin/Debug/netcoreapp2.2/Abstraction.dll
+/home/mido/Desktop/CodeASM1/Abstraction/bin/Debug/netcoreapp2.2/Abstraction.pdb
+/home/mido/Desktop/CodeASM1/Abstraction/obj/Debug/netcoreapp2.2/Abstraction.dll
+/home/mido/Desktop/CodeASM1/Abstraction/obj/Debug/netcoreapp2.2/Abstraction.pdb
