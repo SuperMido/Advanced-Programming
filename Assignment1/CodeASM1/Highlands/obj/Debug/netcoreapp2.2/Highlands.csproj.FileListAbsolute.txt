@@ -1,0 +1,11 @@
+/home/mido/Desktop/CodeASM1/Highlands/obj/Debug/netcoreapp2.2/Highlands.csprojAssemblyReference.cache
+/home/mido/Desktop/CodeASM1/Highlands/obj/Debug/netcoreapp2.2/Highlands.csproj.CoreCompileInputs.cache
+/home/mido/Desktop/CodeASM1/Highlands/obj/Debug/netcoreapp2.2/Highlands.AssemblyInfoInputs.cache
+/home/mido/Desktop/CodeASM1/Highlands/obj/Debug/netcoreapp2.2/Highlands.AssemblyInfo.cs
+/home/mido/Desktop/CodeASM1/Highlands/bin/Debug/netcoreapp2.2/Highlands.deps.json
+/home/mido/Desktop/CodeASM1/Highlands/bin/Debug/netcoreapp2.2/Highlands.runtimeconfig.json
+/home/mido/Desktop/CodeASM1/Highlands/bin/Debug/netcoreapp2.2/Highlands.runtimeconfig.dev.json
+/home/mido/Desktop/CodeASM1/Highlands/bin/Debug/netcoreapp2.2/Highlands.dll
+/home/mido/Desktop/CodeASM1/Highlands/bin/Debug/netcoreapp2.2/Highlands.pdb
+/home/mido/Desktop/CodeASM1/Highlands/obj/Debug/netcoreapp2.2/Highlands.dll
+/home/mido/Desktop/CodeASM1/Highlands/obj/Debug/netcoreapp2.2/Highlands.pdb

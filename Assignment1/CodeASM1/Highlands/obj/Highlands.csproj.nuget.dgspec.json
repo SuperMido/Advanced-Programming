@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/mido/Desktop/CodeASM1/Highlands/Highlands.csproj": {}
+  },
+  "projects": {
+    "/home/mido/Desktop/CodeASM1/Highlands/Highlands.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mido/Desktop/CodeASM1/Highlands/Highlands.csproj",
+        "projectName": "Highlands",
+        "projectPath": "/home/mido/Desktop/CodeASM1/Highlands/Highlands.csproj",
+        "packagesPath": "/home/mido/.nuget/packages/",
+        "outputPath": "/home/mido/Desktop/CodeASM1/Highlands/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/mido/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
